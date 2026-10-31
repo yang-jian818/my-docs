@@ -1,0 +1,17 @@
+site_name: 我的技术文档
+site_description: 开源软件设计与分析 实验二 —— MkDocs + GitHub Pages
+site_author: 陈迪豪
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 指南: guide.md
+  - API: api.md
