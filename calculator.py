@@ -1,5 +1,5 @@
 def add(a, b):
-    return a * b  # 错误的实现：用于验证工作流能否发现测试失败
+    return a + b
 
 
 def multiply(a, b):
