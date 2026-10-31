@@ -8,6 +8,10 @@
 - [使用指南](guide.md)
 - [API 参考](api.md)
 
+!!! note "自动部署说明"
+    本页面修改并推送后，GitHub Actions 会自动重新构建站点并覆盖 `gh-pages` 分支，
+    约 30 秒后刷新 <https://yang-jian818.github.io/my-docs/> 即可看到最新内容。
+
 ## 本实验完成的工作
 
 1. 搭建 MkDocs Material 文档站点，编写 4 个 Markdown 页面；
