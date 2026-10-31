@@ -15,3 +15,10 @@ nav:
   - 关于: about.md
   - 指南: guide.md
   - API: api.md
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - toc:
+      permalink: true
