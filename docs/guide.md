@@ -15,6 +15,13 @@ mkdocs serve
 2. 提交代码到 GitHub（`git add`、`git commit`、`git push`）；
 3. GitHub Actions 自动构建并部署。
 
+## 在线访问
+
+文档站点已由 GitHub Actions 自动部署，网址为：
+<https://yang-jian818.github.io/my-docs/>
+
+每次向 `main` 分支推送 `docs/` 或 `mkdocs.yml` 的修改，都会自动触发一次构建与部署。
+
 ## 关键命令
 
 ```bash
